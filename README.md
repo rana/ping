@@ -12,7 +12,7 @@ Implement a high quality solution that includes the more challenging optional bo
 
 ## Solution
 
-![Screencast](./screencast.mp4)
+![Screencast](./screencast.gif)
 
 - Completed optional bonus.
 - Handled ICMP packet IO asynchronously with non-blocking `socket2` raw socket.
