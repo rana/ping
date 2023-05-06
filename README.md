@@ -16,7 +16,7 @@ Implement a high quality solution that includes the more challenging optional bo
 
 - Completed optional bonus.
 - Handled ICMP packet IO asynchronously with non-blocking `socket2` raw socket.
-- Created an async-friendly ICMP tokio socket `IcmpSocketTokio`.
+- Created an async-friendly ICMP tokio socket [IcmpSocketTokio](./src/main.rs#L318).
 - Five second ping roundtrip timeouts.
 - Input parameter bounds checks.
 - Code documention.
